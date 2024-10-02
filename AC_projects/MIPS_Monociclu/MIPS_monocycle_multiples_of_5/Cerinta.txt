@@ -1,0 +1,5 @@
+gasirea numerelor multiplii de 5 (pozitivi) dintr-un sir de numere si contorizarea aparitiei multiplului de cinci maxim.
+
+ex: 5 10 15 15 2 3 8 20 20 20
+
+raspuns: 3, pt ca avem 3 de 20.
